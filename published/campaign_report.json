@@ -1,0 +1,207 @@
+{
+  "campaign_id": "camp-d8373a9fnz9zv6",
+  "channel_id": "UCuAXFkgsw1L7xaCfnd5JJOw",
+  "channel_name": "Rick Astley",
+  "channel_title_verified": "Rick Astley",
+  "generated_at": "2026-08-15T22:16:00Z",
+  "rules": {
+    "min_view_threshold": 40000,
+    "max_duration_seconds": 300
+  },
+  "summary": {
+    "total": 21,
+    "approved": 5,
+    "rejected": 16
+  },
+  "videos": [
+    {
+      "video_id": "dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "view_count": 1804523225,
+      "like_count": 19335934,
+      "duration_seconds": 214,
+      "status": "APPROVED",
+      "decision_reason": "meets_criteria"
+    },
+    {
+      "video_id": "JjI4o2w6D5A",
+      "title": "We had a fantastic time in Cologne last night. Thanks for having us! ♥️🇩🇪",
+      "view_count": 395646,
+      "like_count": 4575,
+      "duration_seconds": 21,
+      "status": "APPROVED",
+      "decision_reason": "meets_criteria"
+    },
+    {
+      "video_id": "GdbjNGtWPe4",
+      "title": "39 years of Never Gonna Give You Up!🕺Next year it’s the big 4-0… how should we celebrate? Team Rick",
+      "view_count": 42570,
+      "like_count": 1919,
+      "duration_seconds": 24,
+      "status": "APPROVED",
+      "decision_reason": "meets_criteria"
+    },
+    {
+      "video_id": "YJi5uH8YHG8",
+      "title": "Copenhagen, you were amazing. Tak 🇩🇰♥️ #rickastley #tivoligardens",
+      "view_count": 19267,
+      "like_count": 1210,
+      "duration_seconds": 62,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "WmXE7IfqXQ8",
+      "title": "Fly Me To The Moon 🌙 #rickastley",
+      "view_count": 30104,
+      "like_count": 1460,
+      "duration_seconds": 30,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "S069PVmKXZ4",
+      "title": "Last but not least… Angels on My Side ♥️ watch and stream now.",
+      "view_count": 25874,
+      "like_count": 1016,
+      "duration_seconds": 23,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "jbHtuMS-7m0",
+      "title": "We’re back with another one! Full performance of ‘Dance’ from The O2 is out now. 🕺#rickastley",
+      "view_count": 37936,
+      "like_count": 1689,
+      "duration_seconds": 16,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "PXC_PYeB6F8",
+      "title": "Rick Astley - Angels On My Side (Live at The O2, London, April 2026)",
+      "view_count": 48866,
+      "like_count": 1449,
+      "duration_seconds": 231,
+      "status": "APPROVED",
+      "decision_reason": "meets_criteria"
+    },
+    {
+      "video_id": "LaOUkDBDjW8",
+      "title": "Rick Astley - Dance (Live at The O2, London, April 2026)",
+      "view_count": 21444,
+      "like_count": 878,
+      "duration_seconds": 234,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "QVpvmDYrnPo",
+      "title": "OMG Denmark ! What a night! I would have signed everything if I could have. 🙏❤️😎 #rickastley",
+      "view_count": 14542,
+      "like_count": 1013,
+      "duration_seconds": 76,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "qB6u-nqQ67w",
+      "title": "In 2016, Rick went live talking through his new album ‘50’. 10 years later, he’s doing it again 👀",
+      "view_count": 18829,
+      "like_count": 793,
+      "duration_seconds": 42,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "Jtnz8GsmWCI",
+      "title": "‘Keep Singing’ filmed live from The O2 ♥️First one from a very special night. #rickastley",
+      "view_count": 17060,
+      "like_count": 814,
+      "duration_seconds": 32,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "wvr7-pDJUOA",
+      "title": "Rick Astley - Keep Singing (Live at The O2, London, April 2026)",
+      "view_count": 31571,
+      "like_count": 1284,
+      "duration_seconds": 248,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "dE2TxYSDy4Y",
+      "title": "Rick Astley - '50' Track By Track (10 Years Later)",
+      "view_count": 9699,
+      "like_count": 922,
+      "duration_seconds": 2838,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold_and_too_long"
+    },
+    {
+      "video_id": "5E1MOlBDWgQ",
+      "title": "Summer shows kicked off this week in Sweden and Denmark!! 🇸🇪🇩🇰",
+      "view_count": 67700,
+      "like_count": 1706,
+      "duration_seconds": 9,
+      "status": "APPROVED",
+      "decision_reason": "meets_criteria"
+    },
+    {
+      "video_id": "tJBSRSxbfsU",
+      "title": "What a fantastic night in Gothenburg. Really had a lot of fun. Would love to come back! 🎶🕺🏾💕☀️",
+      "view_count": 27995,
+      "like_count": 1327,
+      "duration_seconds": 25,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "zhp51BbvYQk",
+      "title": "Thank you for having us Jelling Musikfestival! ♥️🇩🇰",
+      "view_count": 28418,
+      "like_count": 845,
+      "duration_seconds": 9,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "-0FVExAgmps",
+      "title": "Bit of @b@baftaed carpet madness. Congratulations to all the winners! Thanks for a fun night 👏👏❤️",
+      "view_count": 33925,
+      "like_count": 1480,
+      "duration_seconds": 39,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "GU-4ma439m8",
+      "title": "A closer look at the ‘Raindrops’ artwork shoot 📸🌦️",
+      "view_count": 22090,
+      "like_count": 1643,
+      "duration_seconds": 49,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "wrVg1eDFICc",
+      "title": "Ever wondered what happens 5 minutes before we hit the stage? 🕺 #tour",
+      "view_count": 35525,
+      "like_count": 1539,
+      "duration_seconds": 41,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    },
+    {
+      "video_id": "UibTaF8XSws",
+      "title": "Had a lovely message from a dear friend, Gary Barlow on the last night of tour 🙏❤️ #takethat",
+      "view_count": 21800,
+      "like_count": 731,
+      "duration_seconds": 42,
+      "status": "REJECTED",
+      "decision_reason": "below_view_threshold"
+    }
+  ]
+}
